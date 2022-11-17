@@ -1,0 +1,30 @@
+html{
+    background-color: bisque;
+}
+
+h1{
+    display: grid;
+    text-align: center;
+    font-size: 4rem;
+    margin-bottom: 80px;
+}
+
+#mainContainer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+img{
+    height: 40vh;
+    width: 16vw;   
+}
+
+button{
+    height: 5vh;
+    width: 16vw;
+}
+
+a{
+    text-decoration: none;
+}
+
